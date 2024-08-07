@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Salut à tous ! Je m'appelle Aurélien et je suis un développeur web passionné de 26 ans. <br>✨ J'adore créer des sites web avec des designs époustouflants et une expérience utilisateur intuitive. <br>🤖 Travailler avec des technologies modernes est ma passion et j'aime expérimenter de nouvelles façons de résoudre des problèmes complexes. <br>🚀 Je vous invite à me rejoindre dans ce voyage d'apprentissage perpétuel où ensemble, nous pourrons créer des projets vraiment incroyables !<br><br>
+💻 Salut à tous ! Je m'appelle Aurélien et je suis un développeur web passionné de 28 ans. <br>✨ J'adore créer des sites web avec des designs époustouflants et une expérience utilisateur intuitive. <br>🤖 Travailler avec des technologies modernes est ma passion et j'aime expérimenter de nouvelles façons de résoudre des problèmes complexes. <br>🚀 Je vous invite à me rejoindre dans ce voyage d'apprentissage perpétuel où ensemble, nous pourrons créer des projets vraiment incroyables !<br><br>
 
 📫 Comment me joindre : aurelien.beton27@hotmail.com
 
